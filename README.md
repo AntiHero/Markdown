@@ -49,7 +49,9 @@ _Cекция содержит краткое описание вашего пр�
 
 This project was inspired by __[The Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)__ created by *John Horton Conway*.  
 No players are needed for this game. Just create a pattern and you are ready to go! 🤗  
-You can  get acquainted with the _[rules](#rules)_ and _[usage examples](#usage-examples)_ below. Have a nice trip!
+You can  get acquainted with the _[rules](#rules)_ and _[usage examples](#usage-examples)_ below. 
+
+Have a nice trip!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18004357/131469221-79bf2cdb-4d43-418c-b954-8d9292481646.gif">
