@@ -14,7 +14,7 @@
     <a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors">Contributing</a>
     <span>
   </h3>
-  <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/AntiHero/Markdown/wiki"><strong>Explore the docs »</strong></a>
   <br />
   <br />
     <a href="https://github.com/AntiHero/Markdown/">View Demo</a>
