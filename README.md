@@ -47,9 +47,9 @@
 
 _Cекция содержит краткое описание вашего проекта. Вдохновение, идеи, мотивация, которые послужили началом для создания._
 
-__[The Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)__, also known simply as __Life__, is a cellular automaton devised by the British mathematician *John Horton Conway* in 1970.
-
-It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the __Game of Life__ by creating an initial configuration and observing how it evolves. 
+This project was inspired by __[The Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)__ created by *John Horton Conway*.  
+No players are needed for this game. Just create a pattern and you are ready to go! 🤗  
+You can  get acquainted with the _[rules](#rules)_ and _[usage examples](#usage-examples)_ below. Have a nice trip!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18004357/131469221-79bf2cdb-4d43-418c-b954-8d9292481646.gif">
